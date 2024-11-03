@@ -2,7 +2,6 @@
 
 clear
 echo "Đang cài đặt"
-apt update && apt upgrade -y
 clear
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ curl -O raw.githubusercontent.com/trhh0vn0/modded_4g/main/v111.zip && unzip v111.zip && chmod a+x neko && chmod a+x tun && chmod a+x psiphon-tunnel-core && chmod a+x qexit && chmod a+x wl
 clear
